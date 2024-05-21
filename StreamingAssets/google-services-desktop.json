@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "873966151096",
+    "firebase_url": "https://gang-awareness-db-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "gang-awareness-db",
+    "storage_bucket": "gang-awareness-db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873966151096:android:59d9973ca1aa40164d5b4d",
+        "android_client_info": {
+          "package_name": "com.BuildersBrew.GangAwarenessProject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873966151096-m4dlbbnhoi9gkc5ja2fqjmdkkiu76n0v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSRpUZzpDV7qK7BSDGrFyERD1izD3gMEI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873966151096-m4dlbbnhoi9gkc5ja2fqjmdkkiu76n0v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "873966151096-riinkjpgvchlg858tnen9d0ms1nl2t2h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.DefaultCompany.GangAwarenessProject"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
